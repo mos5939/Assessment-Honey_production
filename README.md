@@ -41,5 +41,5 @@ Running this program will produce a series of graphs and multi-panel plots asses
 ## Sample dataset
 This project was written for analysis of data on Honey Production in America from 1995-2021. This dataset was compiled by Mohit Poudel of the Agriculture and Forestry University in Nepal with the goal of providing insights into honey production, demand, and supply across the United States of America.
 
-This dataset can be found within the repository of this file as "US_honey_dataset.csv" or can alternatively be found on [kaggle](https://www.kaggle.com/datasets/mohitpoudel/us-honey-production-19952021/download?datasetVersionNumber=1)
+This dataset can be found within the repository of this file as "US_honey_dataset.csv" or can alternatively be downloaded [here](https://www.kaggle.com/datasets/mohitpoudel/us-honey-production-19952021/download?datasetVersionNumber=1)
 
